@@ -6,3 +6,6 @@ hello atguigu! hello git!
 22222222222
 33333333333
 44444444444
+
+master test
+hot-fix test
